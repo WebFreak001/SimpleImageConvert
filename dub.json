@@ -1,0 +1,9 @@
+{
+	"name": "simpleimageconvert",
+	"description": "A minimal D application.",
+	"copyright": "Copyright © 2016, webfreak",
+	"authors": ["webfreak"],
+	"dependencies": {
+		"gtk-d:gtkd": "~>3.2.1"
+	}
+}
