@@ -302,6 +302,7 @@ void main(string[] args)
 				continue;
 			if (response == 1)
 				forAll = true;
+			convert.hide();
 		}
 
 		convert.filePath = file;
